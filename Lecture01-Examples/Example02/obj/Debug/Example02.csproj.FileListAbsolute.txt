@@ -1,0 +1,8 @@
+c:\CS287-Examples\Lecture01-Examples\Example02\bin\Debug\Example02.exe.config
+c:\CS287-Examples\Lecture01-Examples\Example02\bin\Debug\Example02.exe
+c:\CS287-Examples\Lecture01-Examples\Example02\bin\Debug\Example02.pdb
+c:\CS287-Examples\Lecture01-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+c:\CS287-Examples\Lecture01-Examples\Example02\obj\Debug\Example02.Properties.Resources.resources
+c:\CS287-Examples\Lecture01-Examples\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache
+c:\CS287-Examples\Lecture01-Examples\Example02\obj\Debug\Example02.exe
+c:\CS287-Examples\Lecture01-Examples\Example02\obj\Debug\Example02.pdb
